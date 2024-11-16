@@ -1,3 +1,4 @@
 reddit.com
 www.reddit.com
 *.reddit.com
+fonts.googleapis.com
